@@ -16,3 +16,5 @@ This report is aimed at visualizing LinkedIn activities
 &nbsp;
 ![Screenshot of dashboard](./Screenshot/PowerBI_LinkedIn_Dashboard.png)
 
+## Author
+Herbert DJANIE
